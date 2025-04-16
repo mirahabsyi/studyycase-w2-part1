@@ -1,14 +1,12 @@
-import axios from "axios";
+const axios = require("axios");
 
-function getAxios() {
-  axios({
-    method: "get",
+const testAxios = async () => {
+  const response = await axios({
+    // sama kaya fetch lebih gampang dipake
+    method: "GET",
     url: "https://jsonplaceholder.typicode.com/users",
-    responseType: "json",
-  }).then(function (response) {
-    const result = response.data;
-    console.log(result);
+    responseType: "application/json",
   });
-}
 
-getAxios();
+  console.log(response.data);
+};
