@@ -1,7 +1,7 @@
 // Database User Simulation
 const userDB = {
   username: "joko",
-  password: "rahasisa",
+  password: "rahasia",
   role: "admin",
 };
 
@@ -41,6 +41,14 @@ function getMenu(role, callback) {
 }
 
 loginUser("joko", "rahasia", (user) => {
+  getRole(user, (role) => {
+    getMenu(role, (menu) => {
+      console.log("Menu: ", menu);
+    });
+  });
+});
+
+loginUser("Amira", "rahasia", (user) => {
   getRole(user, (role) => {
     getMenu(role, (menu) => {
       console.log("Menu: ", menu);

@@ -1,72 +1,72 @@
 [
   {
     "id": 1,
-    "first_name": "Janka",
-    "last_name": "Deering",
-    "email": "jdeering0@guardian.co.uk",
+    "first_name": "Alya",
+    "last_name": "Kurniawan",
+    "email": "alya.kurniawan@email.com",
     "gender": "Female"
   },
   {
     "id": 2,
-    "first_name": "Mitchel",
-    "last_name": "Jeff",
-    "email": "mjeff1@slashdot.org",
+    "first_name": "Rafi",
+    "last_name": "Prasetyo",
+    "email": "rafi.prasetyo@email.com",
     "gender": "Male"
   },
   {
     "id": 3,
-    "first_name": "Haskell",
-    "last_name": "Allsupp",
-    "email": "hallsupp2@bbb.org",
-    "gender": "Male"
-  },
-  {
-    "id": 4,
-    "first_name": "Donna",
-    "last_name": "Zanini",
-    "email": "dzanini3@dion.ne.jp",
+    "first_name": "Nadine",
+    "last_name": "Wijaya",
+    "email": "nadine.wijaya@email.com",
     "gender": "Female"
   },
   {
-    "id": 5,
-    "first_name": "Briant",
-    "last_name": "Cuthbert",
-    "email": "bcuthbert4@photobucket.com",
+    "id": 4,
+    "first_name": "Dimas",
+    "last_name": "Saputra",
+    "email": "dimas.saputra@email.com",
     "gender": "Male"
   },
   {
+    "id": 5,
+    "first_name": "Citra",
+    "last_name": "Permata",
+    "email": "citra.permata@email.com",
+    "gender": "Female"
+  },
+  {
     "id": 6,
-    "first_name": "Erastus",
-    "last_name": "Escoffier",
-    "email": "eescoffier5@creativecommons.org",
+    "first_name": "Fajar",
+    "last_name": "Ramadhan",
+    "email": "fajar.ramadhan@email.com",
     "gender": "Male"
   },
   {
     "id": 7,
-    "first_name": "Babbette",
-    "last_name": "Stafford",
-    "email": "bstafford6@dropbox.com",
+    "first_name": "Indah",
+    "last_name": "Putri",
+    "email": "indah.putri@email.com",
     "gender": "Female"
   },
   {
     "id": 8,
-    "first_name": "D'arcy",
-    "last_name": "Dufaur",
-    "email": "ddufaur7@princeton.edu",
+    "first_name": "Gilang",
+    "last_name": "Nugroho",
+    "email": "gilang.nugroho@email.com",
     "gender": "Male"
   },
   {
     "id": 9,
     "first_name": "Amira",
-    "last_name": "Rosellini",
-    "email": "nrosellini8@epa.gov",
+    "last_name": "Anggraini",
+    "email": "laras.anggraini@email.com",
     "gender": "Female"
   },
   {
     "id": 10,
-    "first_name": "Doroteya",
-    "last_name": "Crusham",
-    "email": "dcrusham9@shinystat.com",
-    "gender": "Female"
+    "first_name": "Yoga",
+    "last_name": "Hidayat",
+    "email": "yoga.hidayat@email.com",
+    "gender": "Male"
   }
 ]
